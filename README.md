@@ -1,24 +1,40 @@
-# Hi there 👋
+# Hi 👋 I'm Stefano Herrera
 
-## 📝 About Me
-I'm Stefano Herrera, a freshman computer science student at NJIT, passionate about backend development, web design, and building functional applications from scratch.
+## 🐱‍👤 About Me:
+I'm a freshman computer science student at NJIT, passionate about backend development, web design, and building functional applications from scratch.
 
 ## 🚀 What I'm Up To
-- Working on a booking system prototype at NJIT to streamline study room reservations.
-- Learning backend development using Node.js and exploring options with Spring Boot.
-- Starting a marketplace project with a team to learn more about web application development.
+- 🧠 Exploring Machine Learning with scikit-learn
+- 🌐 Building system applications with Node.js
 
-## 📫 How to Reach Me
-- [LinkedIn](https://www.linkedin.com/in/stefanoherrera)
-- [Personal Website](https://herrerastefano.com)
+Check out my [coding portfolio!](https://herrerastefano.com)
 
-## 🌟 Featured Projects
-- [Booking System (Lynk)](https://github.com/stefanoherrera/lynk)
-- [Personal Website](https://herrerastefano.com)
+## 🔍 About Me
+I'm also an aspiring content creator, sharing my journey through coding and learning. You can find me on:
 
-## ⚡ Fun Fact
-I'm a big fan of tech that simplifies everyday tasks and am excited about learning more about AI in programming.
+- [Instagram](https://www.instagram.com/stefanoherrera)
+- [TikTok](https://www.tiktok.com/@stefanoherrera)
+- [YouTube](https://www.youtube.com/channel/...)
 
+## 🌐 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stefanoherrera)
+
+---
+
+## 🛠 Tech Stack:
+### Languages:
+![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/-SQL-orange?logo=postgresql&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-red?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-blue?logo=css3&logoColor=white)
+
+### Developer Tools:
+![Git](https://img.shields.io/badge/-Git-red?logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-blue?logo=visual-studio-code&logoColor=white)
+
+### Libraries/Frameworks:
+![Node.js](https://img.shields.io/badge/-Node.js-green?logo=node.js&logoColor=white)
 <!--
 **stefanoherrera/stefanoherrera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
