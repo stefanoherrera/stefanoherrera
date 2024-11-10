@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋 I'm Stefano Herrera</h1>
 
----
-
-<p align="center">⭐</p>
-
 ## ⭐ About Me
 **I am a freshman computer science student at NJIT, passionate about backend development, web design, and building functional applications from scratch.**
 
