@@ -23,8 +23,6 @@ I'm also an aspiring content creator, sharing my journey through coding and lear
     </a>
 </p>
 
----
-
 ## 💻 Tech Stack:
 ### Languages:
 <p align="center">
