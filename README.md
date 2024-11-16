@@ -12,7 +12,7 @@ I am a first-year computer science student at NJIT, passionate about backend dev
 Check out my [coding portfolio!](https://herrerastefano.com/)
 
 ## 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erik-cupsa/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stefano-herrera/)
 
 # 💻 Tech Stack:
 Languages: 
