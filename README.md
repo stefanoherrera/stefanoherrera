@@ -7,7 +7,6 @@ I am a first-year computer science student at NJIT, passionate about backend dev
 
 - 🤖 Exploring Backend Development
 - 💻 Building NJIT's Booking System
-- 💻 Building a Marketplace platform
 
 Check out my [coding portfolio!](https://herrerastefano.com/)
 
