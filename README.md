@@ -5,7 +5,7 @@ I am a first-year computer science student at NJIT, passionate about backend dev
 
 ## 🚀 What I'm Up To
 
-- 🤖 Exploring Backend Development
+- 🤖 Creating software applications with AI. 
 - 💻 Building NJIT's Booking System
 
 Check out my [coding portfolio!](https://herrerastefano.com/)
